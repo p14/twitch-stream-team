@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/twitch-stream-team/static/css/main.ac80b3a8.chunk.css",
-    "main.js": "/twitch-stream-team/static/js/main.6a94ff7e.chunk.js",
-    "main.js.map": "/twitch-stream-team/static/js/main.6a94ff7e.chunk.js.map",
+    "main.css": "/twitch-stream-team/static/css/main.d648c118.chunk.css",
+    "main.js": "/twitch-stream-team/static/js/main.0da2e9d8.chunk.js",
+    "main.js.map": "/twitch-stream-team/static/js/main.0da2e9d8.chunk.js.map",
     "runtime-main.js": "/twitch-stream-team/static/js/runtime-main.971f4221.js",
     "runtime-main.js.map": "/twitch-stream-team/static/js/runtime-main.971f4221.js.map",
-    "static/js/2.4dc4ec19.chunk.js": "/twitch-stream-team/static/js/2.4dc4ec19.chunk.js",
-    "static/js/2.4dc4ec19.chunk.js.map": "/twitch-stream-team/static/js/2.4dc4ec19.chunk.js.map",
+    "static/js/2.978f4bc4.chunk.js": "/twitch-stream-team/static/js/2.978f4bc4.chunk.js",
+    "static/js/2.978f4bc4.chunk.js.map": "/twitch-stream-team/static/js/2.978f4bc4.chunk.js.map",
     "index.html": "/twitch-stream-team/index.html",
-    "static/css/main.ac80b3a8.chunk.css.map": "/twitch-stream-team/static/css/main.ac80b3a8.chunk.css.map",
-    "static/js/2.4dc4ec19.chunk.js.LICENSE.txt": "/twitch-stream-team/static/js/2.4dc4ec19.chunk.js.LICENSE.txt",
+    "static/css/main.d648c118.chunk.css.map": "/twitch-stream-team/static/css/main.d648c118.chunk.css.map",
+    "static/js/2.978f4bc4.chunk.js.LICENSE.txt": "/twitch-stream-team/static/js/2.978f4bc4.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/twitch-stream-team/static/media/astrogaming.04f39df0.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.971f4221.js",
-    "static/js/2.4dc4ec19.chunk.js",
-    "static/css/main.ac80b3a8.chunk.css",
-    "static/js/main.6a94ff7e.chunk.js"
+    "static/js/2.978f4bc4.chunk.js",
+    "static/css/main.d648c118.chunk.css",
+    "static/js/main.0da2e9d8.chunk.js"
   ]
 }
