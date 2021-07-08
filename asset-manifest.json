@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twitch-stream-team/static/css/main.d648c118.chunk.css",
-    "main.js": "/twitch-stream-team/static/js/main.60d2951c.chunk.js",
-    "main.js.map": "/twitch-stream-team/static/js/main.60d2951c.chunk.js.map",
+    "main.js": "/twitch-stream-team/static/js/main.f8070e92.chunk.js",
+    "main.js.map": "/twitch-stream-team/static/js/main.f8070e92.chunk.js.map",
     "runtime-main.js": "/twitch-stream-team/static/js/runtime-main.971f4221.js",
     "runtime-main.js.map": "/twitch-stream-team/static/js/runtime-main.971f4221.js.map",
     "static/js/2.978f4bc4.chunk.js": "/twitch-stream-team/static/js/2.978f4bc4.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.971f4221.js",
     "static/js/2.978f4bc4.chunk.js",
     "static/css/main.d648c118.chunk.css",
-    "static/js/main.60d2951c.chunk.js"
+    "static/js/main.f8070e92.chunk.js"
   ]
 }
